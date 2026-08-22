@@ -1,3 +1,19 @@
-*.csv
+# Python
 __pycache__/
-tempCodeRun
+*.pyc
+
+# VS Code
+.vscode/
+tempCodeRunnerFile*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+models/
+
+# Submission output
+submission/*.csv
+
+# macOS
+.DS_Store
